@@ -17,7 +17,7 @@ The ESP32 board hosts a web server that allows the user to control the robot's m
 
 ## 📸 Project Images
 ### Robot Setup
-![Robot Setup](./photos/robot.jpg)
+![Robot Setup](./photos/IMG-20240721-WA0008.jpg)
 ![Robot Setup](./photos/group.jpg)
 
 ---
